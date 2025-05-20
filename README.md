@@ -4,8 +4,6 @@
 - 👯 I’m looking to collaborate on digital twins.
 - 🤔 I’m looking for help with python and git.
 - 💬 Ask me about cabinet making.
-- 📫 How to reach me: - 
-- 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Octopus' arms have a mind of their own.
 
 <!--
