@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 - 🔭 I’m currently working on different python projects.
 - 🌱 I’m currently learning python and git.
 - 👯 I’m looking to collaborate on digital twins.
